@@ -2,7 +2,6 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Hi%20There👋%20I'm%20Yumi%20🐥%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 ---
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoYouMe&count_bg=%23F5B8F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h3 align="center">🚀 Tech Stack 🚀</h3>
 <p align="center">
@@ -32,3 +31,5 @@
   <a href="https://fillbycoding.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://fillbycoding.tistory.com"/></a>&nbsp
   <a href="mailto:dyalsla0105@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dyalsla0105@gmail.com"/></a>
 </p>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJoYouMe&count_bg=%23F5B8F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
